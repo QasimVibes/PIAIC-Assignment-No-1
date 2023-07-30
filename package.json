@@ -1,0 +1,12 @@
+{
+  "name": "assignment-no-1",
+  "version": "1.0.0",
+  "description": "Your assignment for the week is:\r  - Print a message like \"Hey Abu Hurairah, I have started learning TYPESCRIPT.\"\r  - Store your name in a variable and print it.\r  - Store 10 numbers in different variables.\r    - Add all of them and print the SUM.\r    - Print the Difference (subtraction).\r    - Print the result after multiplying all.\r  - Take two numbers and print the division result.\r  - Now, perform all four operations with the given numbers, print the results, and observe the order in which the operations take place.",
+  "main": "assignment.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
